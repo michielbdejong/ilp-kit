@@ -151,7 +151,7 @@
     "ilp-kit-cli": "^11.2.0",
     "ilp-plugin-bells": "^14.0.0",
     "ilp-plugin-settlement-adapter": "https://github.com/interledgerjs/ilp-plugin-settlement-adapter.git",
-    "ilp-plugin-virtual": "interledgerjs/ilp-plugin-virtual",
+    "ilp-plugin-virtual": "interledgerjs/ilp-plugin-virtual#mj-debug",
     "istanbul": "^0.4.5",
     "jimp": "^0.2.27",
     "json-loader": "^0.5.4",
