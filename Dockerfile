@@ -1,6 +1,6 @@
 FROM node:7-slim
 
-RUN apt-get update && apt-get install -y python postgresql libpq-dev build-essential libpq5 git
+RUN apt-get update && apt-get install -y python postgresql libpq-dev build-essential libpq5 git vim
 
 COPY . /usr/src/app
 WORKDIR /usr/src/app
